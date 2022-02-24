@@ -29,7 +29,4 @@ Purpose of the project is testing the security of information systems
 
 ![github-small](/images/2.png)
 
-However, if you've made some money using my tools or just want to encourage me to continue creating stuff, please consider giving back on 
-**BTC Wallet : 1NqDy1VdF5wkvxBcojbADWexPhPzza6LGF** my efforts and help it grow by buying me coffee - but only if you're definitely able to! 😊🎉
-
 ---
